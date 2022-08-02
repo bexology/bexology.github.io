@@ -1,1 +1,15 @@
-theme: jekyll-theme-minimal
+title: Bexology
+email: bex@bexology.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Bexology description to go here
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bexology.com.au" # the base hostname & protocol for your site, e.g. http://example.com
+repository: bexology/bexology.github.io
+
+# Build settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-include-cache
+

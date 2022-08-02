@@ -1,0 +1,7 @@
+main:
+  - title: "Book"
+    url: /book/
+  - title: "Services"
+    url: /services/
+  - title: "About"
+    url: /about/
